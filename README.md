@@ -3,7 +3,7 @@
 #### Brief Introduction
 1. Implement Black-Litterman Model using **Python**.  
 2. Use **4 different** kinds of view type to evaluate Black-Litterman Model.
-3. Implement **Back-test** by stock market.
+3. Implement **back-test** by stock market.
 4  Plot line charts which display accumulated return using BL model vs that using eqaul weight (comparative approach) for these 4 types. 
 5. Data: price of 10 stocks in the US stock market during the past ten years.
 
